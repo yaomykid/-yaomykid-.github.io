@@ -11,13 +11,20 @@
 课堂听讲+课下练习+同学间讨论
 ### 具体安排
 🛠️__Programming Skills__
+
 Weeks 1-4: Linux
+
 Weeks 5-16: R
+
 Weeks 11-16: Python (optional)
+
 🧠__Basic & NGS Data Analyses__
+
 Weeks 2-12
+
 📊__Machine Learning & AI__
-¡Weeks 13-16: basics and model introduction
+
+Weeks 13-16: basics and model introduction
 
 <details>
   <summary>点击展开每周安排</summary>
