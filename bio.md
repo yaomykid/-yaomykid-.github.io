@@ -1,5 +1,5 @@
 
-
+![](https://ts1.cn.mm.bing.net/th/id/R-C.9282373c410be22f03fced397c36f113?rik=yE7CTzu8rsNpWA&riu=http%3a%2f%2fbioinformatics.hrbmu.edu.cn%2fimages%2fshouyetupian1.png&ehk=b4mPtvOwX3zmvw41OJnX2VrfTUZFiAS%2fcDTID21yX9A%3d&risl=&pid=ImgRaw&r=0)
 
 
 
@@ -9,21 +9,17 @@
 
 ### 学习方法
 - 课堂听讲+课下练习+同学间讨论
+
 ### 具体安排
 🛠️__Programming Skills__
-
 - Weeks 1-4: Linux
-
 - Weeks 5-16: R
-
 - Weeks 11-16: Python (optional)
 
 🧠__Basic & NGS Data Analyses__
-
 - Weeks 2-12
 
 📊__Machine Learning & AI__
-
 - Weeks 13-16: basics and model introduction
 
 <details>
@@ -60,6 +56,7 @@
 - 学习资料：课程PPT和电子书为主
 - 学习方法：课堂听讲（1.5h）+课下练习（3~5h）+同学间讨论
 - 评分机制：课堂互动问题（20%）+当堂和课后作业  (80%) +经验分享Pre
+  
 >课程主页：https://www.ncrnalab.org/courses/bioinfo1/
 
 ### 生物信息学介绍：
@@ -81,6 +78,13 @@ __算法 vs 模型:__
 | **输出**        | 中间结果/特征值          | 预测/分类结果         |
 | **动态性**      | 固定执行步骤             | 通过训练持续优化      |
 | **生物应用示例** | BLAST序列比对算法        | 蛋白质结构预测模型    |
+
+
+| **维度**        | **算法(Algorithm)**                 | **模型(Model)**               |
+|----------------|-----------------------------------|------------------------------|
+| **本质**        | 解决问题的步骤说明书                    | 对现实系统的数学/逻辑抽象         |
+| **输入输出**     | 接收数据 → 执行计算 → 输出结果           | 接收参数 → 生成预测/模拟          |
+| **生物信息案例** | BLAST序列比对算法、Smith-Waterman动态规划 | 隐马尔可夫模型(HMM)、神经网络预测模型 |
 
 ### 编程及软件基础：
 __编程语言:__
