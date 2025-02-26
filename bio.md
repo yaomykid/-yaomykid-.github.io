@@ -5,7 +5,39 @@
 
 # Yaomy 的生物信息学课程笔记
 ## 本学期的学习计划
+### 学习目标
 
+### 学习方法
+课堂听讲+课下练习+同学间讨论
+### 具体安排
+🛠️__Programming Skills__
+Weeks 1-4: Linux
+Weeks 5-16: R
+Weeks 11-16: Python (optional)
+🧠__Basic & NGS Data Analyses__
+Weeks 2-12
+📊__Machine Learning & AI__
+¡Weeks 13-16: basics and model introduction
+
+<details>
+  <summary>点击展开每周安排</summary>
+- [x] Week1:了解课程目标和内容，掌握 Linux 基本操作命令。
+- [ ] Week2:Bioinfo Introduction II+Linux练习
+- [ ] Week3:
+- [ ] Week4:
+- [ ] Week5:
+- [ ] Week6:
+- [ ] Week7:
+- [ ] Week8:
+- [ ] Week9:
+- [ ] Week10:
+- [ ] Week11:
+- [ ] Week12:
+- [ ] Week13:
+- [ ] Week14:
+- [ ] Week15:
+- [ ] Week16:
+</details>
 
 
 
@@ -36,7 +68,7 @@
 
 __算法 vs 模型:__
 | **特征**        | 算法 (Algorithm)         | 模型 (Model)          |
-|----------------|--------------------------|-----------------------|
+|-----------------|-------------------------|-----------------------|
 | **本质**        | 操作流程说明书           | 数据关系的数学抽象    |
 | **输入**        | 原始数据 + 参数          | 算法处理后的结构化数据|
 | **输出**        | 中间结果/特征值          | 预测/分类结果         |
