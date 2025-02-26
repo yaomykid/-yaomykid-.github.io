@@ -1,5 +1,5 @@
 
-![](https://ts1.cn.mm.bing.net/th/id/R-C.9282373c410be22f03fced397c36f113?rik=yE7CTzu8rsNpWA&riu=http%3a%2f%2fbioinformatics.hrbmu.edu.cn%2fimages%2fshouyetupian1.png&ehk=b4mPtvOwX3zmvw41OJnX2VrfTUZFiAS%2fcDTID21yX9A%3d&risl=&pid=ImgRaw&r=0)
+
 
 
 
@@ -8,23 +8,23 @@
 ### 学习目标
 
 ### 学习方法
-课堂听讲+课下练习+同学间讨论
+- 课堂听讲+课下练习+同学间讨论
 ### 具体安排
 🛠️__Programming Skills__
 
-Weeks 1-4: Linux
+- Weeks 1-4: Linux
 
-Weeks 5-16: R
+- Weeks 5-16: R
 
-Weeks 11-16: Python (optional)
+- Weeks 11-16: Python (optional)
 
 🧠__Basic & NGS Data Analyses__
 
-Weeks 2-12
+- Weeks 2-12
 
 📊__Machine Learning & AI__
 
-Weeks 13-16: basics and model introduction
+- Weeks 13-16: basics and model introduction
 
 <details>
   <summary>点击展开每周安排</summary>
