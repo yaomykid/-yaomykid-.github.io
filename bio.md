@@ -1,7 +1,7 @@
 
 ![](https://ts1.cn.mm.bing.net/th/id/R-C.9282373c410be22f03fced397c36f113?rik=yE7CTzu8rsNpWA&riu=http%3a%2f%2fbioinformatics.hrbmu.edu.cn%2fimages%2fshouyetupian1.png&ehk=b4mPtvOwX3zmvw41OJnX2VrfTUZFiAS%2fcDTID21yX9A%3d&risl=&pid=ImgRaw&r=0)
 
-
+<font face="楷体" color=#00ffff size=5>Yaomy 的生物信息学课程笔记</font>
 
 #   Yaomy 的生物信息学课程笔记
 ## 本学期的学习计划
@@ -34,7 +34,7 @@
 ***********
 
 ## 第一堂课的笔记
->第一节课介绍了课程的基本信息，生物信息学这一学科的介绍，以及学习本课程所需的数理，编程及软件基础
+> 第一节课介绍了课程的基本信息，生物信息学这一学科的介绍，以及学习本课程所需的数理，编程及软件基础
 
 ### 课程基本信息：
 - 课程名称：生物信息学
@@ -44,7 +44,7 @@
 - 学习方法：课堂听讲（1.5h）+课下练习（3~5h）+同学间讨论
 - 评分机制：课堂互动问题（20%）+当堂和课后作业  (80%) +经验分享Pre
   
->课程主页：https://www.ncrnalab.org/courses/bioinfo1/
+> 课程主页：https://www.ncrnalab.org/courses/bioinfo1/
 
 ### 生物信息学介绍：
 4 steps of Bioinformatics
@@ -58,6 +58,7 @@
   神经网络，大语言模型，深度学习
 
 __算法 vs 模型:__
+
 | 对比维度      | 算法 (Algorithm)                  | 模型 (Model)                   |
 |---------------|-----------------------------------|--------------------------------|
 | **本质**      | 解决问题的步骤说明书               | 现实系统的数学/逻辑抽象          |
