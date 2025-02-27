@@ -1,7 +1,7 @@
 
 ![](https://ts1.cn.mm.bing.net/th/id/R-C.9282373c410be22f03fced397c36f113?rik=yE7CTzu8rsNpWA&riu=http%3a%2f%2fbioinformatics.hrbmu.edu.cn%2fimages%2fshouyetupian1.png&ehk=b4mPtvOwX3zmvw41OJnX2VrfTUZFiAS%2fcDTID21yX9A%3d&risl=&pid=ImgRaw&r=0)
 
-<font face="楷体" color=#00ffff size=5>Yaomy 的生物信息学课程笔记</font>
+
 
 #   Yaomy 的生物信息学课程笔记
 ## 本学期的学习计划
